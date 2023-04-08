@@ -12,4 +12,3 @@ function Select ({options, setOption}) {
 }
 
 export default Select;
-
